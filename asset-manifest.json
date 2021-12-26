@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://peraltafederico.github.io/csb-h0vx8/static/css/main.fa742df1.chunk.css",
+    "main.js": "https://peraltafederico.github.io/csb-h0vx8/static/js/main.ad79e61e.chunk.js",
+    "main.js.map": "https://peraltafederico.github.io/csb-h0vx8/static/js/main.ad79e61e.chunk.js.map",
+    "runtime-main.js": "https://peraltafederico.github.io/csb-h0vx8/static/js/runtime-main.65915c5d.js",
+    "runtime-main.js.map": "https://peraltafederico.github.io/csb-h0vx8/static/js/runtime-main.65915c5d.js.map",
+    "static/js/2.38d824c9.chunk.js": "https://peraltafederico.github.io/csb-h0vx8/static/js/2.38d824c9.chunk.js",
+    "static/js/2.38d824c9.chunk.js.map": "https://peraltafederico.github.io/csb-h0vx8/static/js/2.38d824c9.chunk.js.map",
+    "index.html": "https://peraltafederico.github.io/csb-h0vx8/index.html",
+    "static/css/main.fa742df1.chunk.css.map": "https://peraltafederico.github.io/csb-h0vx8/static/css/main.fa742df1.chunk.css.map",
+    "static/js/2.38d824c9.chunk.js.LICENSE.txt": "https://peraltafederico.github.io/csb-h0vx8/static/js/2.38d824c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65915c5d.js",
+    "static/js/2.38d824c9.chunk.js",
+    "static/css/main.fa742df1.chunk.css",
+    "static/js/main.ad79e61e.chunk.js"
+  ]
+}
